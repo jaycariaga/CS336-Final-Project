@@ -1,0 +1,49 @@
+GROUP 33
+Jason Cariaga
+Shubham Rustagi
+Parker Fisher
+Karan Arora
+Harpal Dillon
+
+I. Create accounts of users; login, logout - Shubham Rustagi (SR)
+	[x SR] login, logout, signup functionality
+
+II. Browsing and search functionality - Parker Fisher (PF)	
+	[x PF] search for train schedules by origin, destination, date of travel
+	[x PF] sort by different criteria (by arrival time, departure time, origin, destination, fare)
+	[x PF] a user should be able to see all the stops a train will make
+
+III. Reservations - Shubham Rustagi (SR)
+	[x SR] a customer should be able to make a reservation for a specific route
+	[x SR] get a discount in case of child/senior/disabled
+	[x SR] cancel existing reservation
+	[x SR] view current and past reservations with their details.
+
+IV. Messaging functions - Jason Cariaga (JC)
+	[x JC] send a question to the customer service (customer reps will reply it)
+	[x JC] browse questions and answers
+	[x JC] search questions and answers
+	[x JC] get an alert message in case a route is delayed.
+
+V. Admin functions - Harpal Dillon (HD)
+	[X HD] Admin (create an admin account ahead of time)
+	[X HD] Add, Edit and Delete information for an employee/customer
+	[X HD] Obtain sales reports for a particular month
+	[X HD] Produce a list of reservations:
+		[X HD] by transit line and train number (e.g. NortheastCorridor #3425)
+		[X HD] by customer name
+	[X HD] Produce a listing of revenue per:
+		[X HD] transit line
+		[X HD] destination city
+		[X HD] customer name
+		[X HD] best customer
+		[X HD] best 5 most active transit lines
+
+VI. Customer representative - Karan Arora (KA)
+	[X KA] Add, Edit and Delete reservations
+	[X KA] Add, Edit and Delete information for train schedules
+	[X KA] Replies to customer questions
+	[X KA] Produces a list of train schedules for a specific origin and destination
+	[X KA] Produces a list of train schedules for a given station (as origin/destination)
+	[X KA] Produce a list of all customers who have seats reserved on a given transit line and train 
+	
